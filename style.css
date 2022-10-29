@@ -82,7 +82,7 @@ header img{
     padding: 15px;
     transition: .3s;
     margin: 3em .5em;
-    text-align: center;
+    /* text-align: center; */
     
 }
 .fa-brands:hover{
